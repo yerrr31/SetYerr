@@ -1,2 +1,2 @@
-# HOW TO USE
+# How To Use
 ..
