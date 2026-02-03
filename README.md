@@ -1,2 +1,2 @@
-# SetYerr
-이건 내 repo다
+# HOW TO USE
+..
